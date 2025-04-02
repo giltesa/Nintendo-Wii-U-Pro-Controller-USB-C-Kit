@@ -4,7 +4,7 @@ The **Nintendo Wii U Pro Controller: USB-C Kit** is a board that allows to repla
 
 **If your original connector / power supply is too old or damaged** and you need a new one, or **if you would like to power up your Nintendo Wii U Pro Controller with a standard USB-C charger**, such as the charger for your phone, or laptop, you can do so with this kit.
 
-![NINTENDO-WIIU-PRO-CONTROLLER-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-U-Pro-Controller-USB-C-Kit/master/4.%20Photos/XXXXXXXXXXX.jpg)
+![Nintendo-WIIU-PRO-CONTROLLER-USB-C-Kit](https://raw.githubusercontent.com/giltesa/Nintendo-Wii-U-GamePad-USB-C-Kit/master/4.%20Photos/Nintendo-Wii-U-Pro--Controller-USB-C-v1.0_1.jpg)
 
 
 ## Would you like it?
